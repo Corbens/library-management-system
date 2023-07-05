@@ -1,0 +1,32 @@
+1,9780747574507,Harry Potter and the Goblet of Fire,J.K. Rowling,2019-01-03,0
+2,9780747551003,Harry Potter and the Order of the Phoenix,J.K. Rowling,2019-01-05,0
+3,9780395595114,The Lord of the Rings,J.R.R. Tolkien,2019-01-05,5022
+4,9780261103344,The Hobbit,J.R.R. Tolkien,2019-01-08,0
+5,9780553573404,A Game of Thrones,George R.R. Martin,2019-01-10,0
+6,9780441518098,The Man In The High Castle,Philip K. Dick,2019-01-14,0
+7,9781784752637,To Kill A Mockingbird,Harper Lee,2019-01-21,0
+8,9780020199601,The Great Gatsby,F. Scott Fitzgerald,2019-01-23,0
+9,9780099477310,Catch-22,Joseph Heller,2019-02-07,0
+10,9780451524935,Nineteen Eighty Four,George Orwell,2019-02-09,0
+11,9780141182704,Animal Farm,George Orwell,2019-02-24,0
+12,9780552773898,The Book Thief,Markus Zusak,2019-03-07,0
+13,9780747532743,Harry Potter and the Philosopher's Stone,J.K. Rowling,2019-03-09,3365
+14,9781841953922,Life of Pi,Yann Martel,2019-03-30,5022
+15,9780330319928,American Psycho,Bret Easton Ellis,2019-04-04,4002
+16,9781407164267,The Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson,2019-04-29,0
+17,9780330244077,Tinker Tailor Soldier Spy,John Le Carre,2019-05-14,7319
+18,9780140301854,Charlotte's Web,E.B. White,2018-07-05,3889
+19,9781509808311,The Hitchhikers Guide to the Galaxy,Douglas Adams,2019-05-11,0
+20,9780440180296,Slaughterhouse-Five,Kurt Vonnegut,2019-07-19,4382
+21,9781408818619,Coraline,Neil Gaiman,2019-08-05,0
+22,9780385602648,Night Watch,Terry Pratchet,2019-08-11,2206
+23,9780141346427,The BFG,Roald Dahl,2019-11-21,4894
+24,9780590996839,Matilda,Roald Dahl,2019-12-09,0
+25,9780261103344,The Hobbit,J.R.R. Tolkien,2020-01-13,0
+26,9780141182704,Animal Farm,George Orwell,2020-02-08,1673
+27,9780099477310,Catch-22,Joseph Heller,2020-02-14,0
+28,9780552773898,The Book Thief,Markus Zusak,2020-04-19,8992
+29,9780747551003,Harry Potter and the Goblet of Fire,J.K. Rowling,2020-04-21,2082
+30,9780261103344,The Hobbit,J.R.R. Tolkien,2020-06-01,6872
+31,9780141346427,The BFG,Roald Dahl,2020-06-11,0
+32,9780747532743,Harry Potter and the Philosopher's Stone,J.K. Rowling,2020-06-21,5022

@@ -1,0 +1,68 @@
+2020-01-21,1,Harry Potter and the Goblet of Fire,1
+2020-01-24,4,The Hobbit,1
+2020-02-01,10,Nineteen Eighty Four,1
+2020-02-12,5,A Game of Thrones,1
+2020-02-23,4,The Hobbit,0
+2020-02-27,11,Animal Farm,1
+2020-03-05,7,To Kill A Mockingbird,1
+2020-03-07,1,Harry Potter and the Goblet of Fire,0
+2020-03-12,6,The Man In The High Castle,1
+2020-03-19,5,A Game of Thrones,0
+2020-03-25,13,Harry Potter and the Philosopher's Stone,1
+2020-03-29,14,Life of Pi,1
+2020-04-03,12,The Book Thief,1
+2020-04-08,8,The Great Gatsby,1
+2020-04-11,10,Nineteen Eighty Four,0
+2020-04-15,4,The Hobbit,1
+2020-04-19,3,The Lord of the Rings,1
+2020-04-24,6,The Man In The High Castle,0
+2020-04-25,13,Harry Potter and the Philosopher's Stone,0
+2020-05-01,11,Animal Farm,0
+2020-05-04,15,American Psycho,1
+2020-05-05,6,The Man In The High Castle,1
+2020-05-11,12,The Book Thief,0
+2020-05-18,3,The Lord of the Rings,0
+2020-05-24,14,Life of Pi,0
+2020-06-03,7,To Kill A Mockingbird,0
+2020-06-04,19,The Hitchhikers Guide to the Galaxy,1
+2020-06-07,20,Slaughterhouse-Five,1
+2020-06-14,4,The Hobbit,0
+2020-06-19,2,Harry Potter and the Order of the Phoenix,1
+2020-07-02,8,The Great Gatsby,0
+2020-07-05,6,The Man In The High Castle,0
+2020-07-11,16,The Strange Case of Dr Jekyll and Mr Hyde,1
+2020-07-12,21,Coraline,1
+2020-07-17,15,American Psycho,0
+2020-07-19,5,A Game of Thrones,1
+2020-07-23,20,Slaughterhouse-Five,0
+2020-07-29,2,Harry Potter and the Order of the Phoenix,0
+2020-08-05,23,The BFG,1
+2020-08-11,13,Harry Potter and the Philosopher's Stone,1
+2020-08-14,9,Catch-22,1
+2020-08-15,19,The Hitchhikers Guide to the Galaxy,0
+2020-08-21,16,The Strange Case of Dr Jekyll and Mr Hyde,0
+2020-08-27,24,Matilda,1
+2020-09-06,25,The Hobbit,1
+2020-09-11,5,A Game of Thrones,0
+2020-09-16,20,Slaughterhouse-Five,1
+2020-09-18,13,Harry Potter and the Philosopher's Stone,0
+2020-09-25,21,Coraline,0
+2020-09-30,18,Charlotte's Web,1
+2020-10-04,9,Catch-22,0
+2020-10-09,19,The Hitchhikers Guide to the Galaxy,1
+2020-10-10,1,Harry Potter and the Goblet of Fire,1
+2020-10-18,26,Animal Farm,1
+2020-10-23,23,The BFG,0
+2020-10-26,15,American Psycho,1
+2020-10-29,28,The Book Thief,1
+2020-10-31,24,Matilda,0
+2020-11-02,3,The Lord of the Rings,1
+2020-11-09,25,The Hobbit,0
+2020-11-14,13,Harry Potter and the Philosopher's Stone,1
+2020-11-19,19,The Hitchhikers Guide to the Galaxy,0
+2020-11-25,21,Coraline,1
+2020-11-28,17,Tinker Tailor Soldier Spy,1
+2020-12-01,22,Night Watch,1
+2020-12-04,23,The BFG,1
+2020-12-08,30,The Hobbit,1
+2020-12-11,12,The Book Thief,1
